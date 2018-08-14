@@ -1,0 +1,3 @@
+[2018-08-13 22:36:27:007] [INFO ] [method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:316)]
+Loading XML bean definitions from class path resource [zhangsan.xml]
+
